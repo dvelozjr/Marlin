@@ -1100,7 +1100,7 @@
 // @section extruder
 
 // For direct drive extruder v9 set to true, for geared extruder set to false.
-#define INVERT_E0_DIR true //default:false per big tree
+#define INVERT_E0_DIR false //default:false per big tree but miswiring?? made me change to default
 #define INVERT_E1_DIR false
 #define INVERT_E2_DIR false
 #define INVERT_E3_DIR false
